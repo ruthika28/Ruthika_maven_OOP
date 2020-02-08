@@ -1,7 +1,7 @@
 package com.ruthika.gifts.sweets;
 
 /**
- * @author harsha
+ * @author ruthika
  *
  */
 public class Rasmalai extends Sweet{
